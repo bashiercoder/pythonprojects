@@ -1,2 +1,1 @@
-# pythonprojects By Bashier Elfergani
-# pythonprojects
+# Python Projects By Bashier Elfergani
